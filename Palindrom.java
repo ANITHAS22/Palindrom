@@ -15,11 +15,11 @@ public class Palindrome
         }
         if(a==m)
         {
-            System.out.println("is Palindrome");
+            System.out.println("yes");
         }
         else
         {
-            System.out.println("is Not Palindrome");
+            System.out.println("no");
         }
     }
 }
