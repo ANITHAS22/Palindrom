@@ -1,5 +1,5 @@
 import java.util.*;
-class Gprime
+class prime
 {
     public static void main(String args[])
     {
